@@ -19,7 +19,7 @@ This is a simple "Guess the Word" game implemented in Python using the tkinter l
 ## Usage
 
 ```bash
-python guess_the_word.py
+python hangman.py
 ```
 
 ## Rules
