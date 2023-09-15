@@ -12,6 +12,10 @@ This is a simple "Guess the Word" game implemented in Python using the tkinter l
 6. If you guess the word correctly, you win!
 7. If you run out of lives, the game will end.
 
+## Dependencies
+
+- `tkinter`: This library is used for creating the graphical user interface.
+
 ## Usage
 
 ```bash
